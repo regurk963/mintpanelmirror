@@ -6,8 +6,6 @@ instead of rebuilding each panel by hand.
 
 For **Linux Mint (Cinnamon)**.
 
-> _Add a screenshot here after your first run, e.g. `docs/screenshot.png`, so people can see the window._
-
 ## Why this exists
 
 Cinnamon has no built-in "mirror this panel to all monitors". You can copy the
