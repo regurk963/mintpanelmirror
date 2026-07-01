@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Cinnamon Panel Mirror
+GenericName=Panel Mirror
+Comment=Copy one panel's layout onto your other monitors
+Exec=cinnamon-panel-mirror
+Icon=cinnamon-panel-mirror
+Terminal=false
+Categories=Settings;DesktopSettings;GTK;
+Keywords=panel;taskbar;monitor;mirror;cinnamon;multi-monitor;
+StartupNotify=true

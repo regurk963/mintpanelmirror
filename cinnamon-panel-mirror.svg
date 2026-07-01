@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect x="8" y="8" width="112" height="112" rx="26" fill="#37474f"/>
+
+  <!-- left monitor -->
+  <rect x="22" y="40" width="40" height="30" rx="3" fill="#eceff1"/>
+  <rect x="22" y="62" width="40" height="8" rx="0" fill="#8bc34a"/>
+  <rect x="38" y="70" width="8" height="7" fill="#90a4ae"/>
+  <rect x="30" y="77" width="24" height="4" rx="2" fill="#90a4ae"/>
+
+  <!-- right monitor -->
+  <rect x="66" y="40" width="40" height="30" rx="3" fill="#eceff1"/>
+  <rect x="66" y="62" width="40" height="8" rx="0" fill="#8bc34a"/>
+  <rect x="82" y="70" width="8" height="7" fill="#90a4ae"/>
+  <rect x="74" y="77" width="24" height="4" rx="2" fill="#90a4ae"/>
+
+  <!-- copy arrow: from left screen to right screen -->
+  <path d="M57 52 h12" fill="none" stroke="#ffb300" stroke-width="4" stroke-linecap="round"/>
+  <path d="M65 47 l6 5 l-6 5" fill="none" stroke="#ffb300" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
